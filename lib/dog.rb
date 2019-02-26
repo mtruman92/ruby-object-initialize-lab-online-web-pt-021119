@@ -9,3 +9,4 @@ def breed =(breed,dogs_name ="Mutt")
   @breed = breed
   @name = dogs_name
 end
+end
