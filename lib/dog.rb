@@ -18,6 +18,6 @@ end
 def breed
   @breed
 end
-def name
+def dogs_name
   @name
 end
