@@ -8,7 +8,7 @@ end
 #def breed=(dogs_name, breed = "Mutt")
   #@name = dogs_name
   #@breed = breed
-end
+#end
 
 #def breed=(breed = "Mutt",dogs_name)
  # @breed = breed
